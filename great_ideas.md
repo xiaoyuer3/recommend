@@ -12,3 +12,10 @@ https://zhuanlan.zhihu.com/p/448680238 推荐系统特征工程的技巧
 https://www.zhihu.com/people/wang-zhe-58/columns 王喆专栏  
 https://zhuanlan.zhihu.com/p/52504407 YouTube深度学习推荐系统十大工程问题  
 https://zhuanlan.zhihu.com/p/52169807 YouTube细读  
+张俊林：  
+https://www.zhihu.com/people/zhang-jun-lin-76 张俊林知乎主页  
+https://zhuanlan.zhihu.com/p/424198603 对比学习在召回粗排的应用  
+蘑菇先生：  
+https://www.zhihu.com/people/xuetf 蘑菇先生知乎主页  
+张小磊：  
+https://www.zhihu.com/people/hongleizhang 张小磊知乎主页  
